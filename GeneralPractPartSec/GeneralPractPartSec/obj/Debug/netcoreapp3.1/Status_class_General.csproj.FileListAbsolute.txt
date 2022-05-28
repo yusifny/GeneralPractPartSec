@@ -1,0 +1,26 @@
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.csproj.AssemblyReference.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.AssemblyInfoInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.AssemblyInfo.cs
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.csproj.CoreCompileInputs.cache
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.deps.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.runtimeconfig.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.runtimeconfig.dev.json
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.dll
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.pdb
+/Users/ilkinibrahimov/Desktop/Visual Studio/Status_class_General/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.genruntimeconfig.cache
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.deps.json
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.dll
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/bin/Debug/netcoreapp3.1/Status_class_General.pdb
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.csproj.AssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.dll
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.pdb
+/Users/yusifnazarbayov/Desktop/Status_class_General-main/Status_class_General/obj/Debug/netcoreapp3.1/Status_class_General.genruntimeconfig.cache
